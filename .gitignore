@@ -5,3 +5,13 @@ __pycache__/
 .idea/
 *.pem
 *.tar
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+*.sqlite3
+*.ipynb_checkpoints/
+.DS_Store
+*.xlsx
